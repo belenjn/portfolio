@@ -4,15 +4,16 @@ import './header.css'
 import ME from '../../assets/be.png'
 import { AiOutlineDown } from 'react-icons/ai';
 import { HeaderSocials } from './HeaderSocials';
+import {strings} from '../../utils/strings'
 
 export const Header = () => {
   return (
     <header id='header'>
       <div className='container header__container'>
 
-        <h5>¡Hola! Mi nombre es: </h5>
-        <h1>Belén Jaraba</h1>
-        <h5 className='text-light'>Desarrolladora Front-end</h5>
+        <h5>{strings.title_header1}</h5>
+        <h1>{strings.title_header2}</h1>
+        <h5 className='text-light'>{strings.title_header3}</h5>
         <CTA/>
         <HeaderSocials/>
 
