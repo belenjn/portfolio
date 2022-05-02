@@ -26,6 +26,12 @@
     border-color: var(--color-primary-variant);
 }
 
+.blob {
+    width: 140%;
+    height: 110%;
+    margin-left: -18%;
+}
+
 .contact__option-icon {
     font-size: 1.5rem;
     margin-bottom: 0.5rem;
