@@ -14,7 +14,7 @@ export const strings = {
     "👶🏻Hace un año decidí renovarme y empezar a estudiar programación.",
   line2_about: "🖌️Empecé a estudiar HTML, CSS y posteriormente Javascript.",
   line3_about:
-    "📝Actualmente estoy estudiando Desarrollo Full Stack en Desarrolladoras Samsung y a su vez estoy estudiando React de manera autodidacta.",
+    "📝Actualmente estoy estudiando Desarrollo Full Stack en Oxygen Academy.",
   line4_about:
     "     🙏🏻Me gustaría poder empezar a trabajar para afianzar conocimientos, conocer a un equipo y trabajar con él, aprender de las personas que lo formen y empezar a ganar experiencia en este sector.",
   line5_about: "🏠Estoy abierta a ofertas de empleo en remoto.",
