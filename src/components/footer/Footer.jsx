@@ -12,7 +12,7 @@ export const Footer = () => {
 
       <ul className='permalinks'>
         <li><a href='#header'>{strings.link_footer1}</a></li>
-        <li><a href='#about'>{strings.title_about2}</a></li>
+        <li><a href='#about'>{strings.sobremi_footer}</a></li>
         <li><a href='#experience'>{strings.title_experience2}</a></li>
         <li><a href='#portfolio'>{strings.title_portfolio2}</a></li>
         <li><a href='#contact'>{strings.link_footer2}</a></li>

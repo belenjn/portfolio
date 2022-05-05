@@ -53,7 +53,8 @@ export const strings = {
   // FOOTER
   link_footer1: "Inicio",
   link_footer2: "Contacto",
-  derechos: "BELÉN JARABA. Todos los derechos reservados."
+  derechos: "BELÉN JARABA. Todos los derechos reservados.",
+  sobremi_footer: "Sobre mí"
 
 
 };
