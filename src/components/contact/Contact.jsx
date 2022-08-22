@@ -28,7 +28,6 @@ export const Contact = () => {
           <article className='contact__option'>
               <MdOutlineEmail className='contact__option-icon'/>
               <h4>{strings.title_contact3}</h4>
-              <h5>{strings.title_contact4}</h5>
               <a href='mailto:belen.develop@gmail.com' target='_blank' rel='noreferrer'>{strings.link_contact1}</a>
           </article>
         </div>

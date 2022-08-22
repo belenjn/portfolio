@@ -59,7 +59,7 @@ export const Experience = () => {
               <article className='experience__details'>
                 <BsPatchCheckFill className='experience__details-icon'/>
                 <div>
-                  <h4>{strings.title_experience9}</h4>
+                  <h4>{strings.title_experience10}</h4>
                 </div>
               
               </article>
@@ -67,12 +67,12 @@ export const Experience = () => {
         </div>
 
         <div className='experience__backend'>
-        <h3>{strings.title_experience10}</h3>
+        <h3>{strings.title_experience11}</h3>
           <div className='experience__content'>
               <article className='experience__details'>
                 <BsPatchCheckFill className='experience__details-icon'/>
                 <div>
-                  <h4>{strings.title_experience11}</h4>
+                  <h4>{strings.title_experience12}</h4>
                 </div>
              
               </article>
@@ -80,7 +80,22 @@ export const Experience = () => {
               <article className='experience__details'>
                 <BsPatchCheckFill className='experience__details-icon'/>
                 <div>
-                   <h4>{strings.title_experience12}</h4>
+                   <h4>{strings.title_experience13}</h4>
+                </div>
+               
+              </article>
+
+              <article className='experience__details'>
+                <BsPatchCheckFill className='experience__details-icon'/>
+                <div>
+                   <h4>{strings.title_experience14}</h4>
+                </div>
+               
+              </article>
+              <article className='experience__details'>
+                <BsPatchCheckFill className='experience__details-icon'/>
+                <div>
+                   <h4>{strings.title_experience15}</h4>
                 </div>
                
               </article>

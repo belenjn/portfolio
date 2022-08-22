@@ -27,9 +27,11 @@
 }
 
 .blob {
-    width: 140%;
-    height: 110%;
-    margin-left: -18%;
+    display: flex;
+    margin: auto;
+    width: 100%;
+    height: 100%;
+    
 }
 
 .contact__option-icon {

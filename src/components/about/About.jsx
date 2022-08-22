@@ -1,7 +1,7 @@
 import React from "react";
 import "./about.css";
 import {strings} from '../../utils/strings'
-import ME from "../../assets/be2.jpg";
+import ME from "../../assets/be2.png";
 
 export const About = () => {
   return (
