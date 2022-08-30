@@ -54,7 +54,7 @@ export const Portfolio = () => {
               {strings.link_portfolio1}
             </a>
             <a
-              href="https://star-wars-first-app.netlify.app/"
+              href="https://belenjn.github.io/starwars-app/"
               className="btn btn-primary"
               target="_blank"
               rel="noreferrer"
