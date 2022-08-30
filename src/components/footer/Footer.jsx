@@ -8,7 +8,6 @@ import {strings} from '../../utils/strings'
 export const Footer = () => {
   return (
     <footer>
-      <a href='#header' className='footer__logo' > BELÉN</a>
 
       <ul className='permalinks'>
         <li><a href='#header'>{strings.link_footer1}</a></li>
