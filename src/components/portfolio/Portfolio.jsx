@@ -54,7 +54,7 @@ export const Portfolio = () => {
               {strings.link_portfolio1}
             </a>
             <a
-              href="https://belenjn.github.io/starwars-app/"
+              href="https://belenjn.github.io/star-wars-app/"
               className="btn btn-primary"
               target="_blank"
               rel="noreferrer"
