@@ -8,14 +8,14 @@ export const strings = {
 
   // ABOUT
   title_about1: "Conóceme un poco",
-  title_about2: "Sobre mi:",
+  title_about2: "Sobre mí:",
   line1_about:
     "👶🏻 Hace más de un año decidí renovarme y empezar a estudiar programación.",
   line2_about: "🖌️ Empecé a estudiar HTML, CSS, JS y React de manera autodidacta.",
   line3_about:
-    "📝 Estuve cursando hace unos meses en un curso de Samsung de Desarrollo Front-end, dedicado a mujeres y al poco, empecé a estudiar en el Training Full Stack de Oxygen Academy, hasta ahora.",
+    "📝 Estuve cursando en Desarrollo Front-end impartido por Samsung y dedicado a mujeres. Después, cursé en el Training Full Stack de Oxygen Academy.",
   line4_about:
-    "     🙏🏻 Me gustaría poder empezar a trabajar para afianzar conocimientos, conocer a un equipo y trabajar con él, aprender de las personas que lo formen y empezar a ganar experiencia en este sector.",
+    "     🙏🏻 Me gustaría poder empezar a trabajar para afianzar conocimientos, trabajar en equipo, aprender de las personas que lo formen y empezar a ganar experiencia en este sector.",
   line5_about: "🏠 Estoy abierta a ofertas de empleo en remoto.",
   button_about: "Hablemos",
 
