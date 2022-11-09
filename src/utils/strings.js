@@ -10,13 +10,12 @@ export const strings = {
   title_about1: "Conóceme un poco",
   title_about2: "Sobre mí:",
   line1_about:
-    "👶🏻 Hace más de un año decidí renovarme y empezar a estudiar programación.",
-  line2_about: "🖌️ Empecé a estudiar HTML, CSS, JS y React de manera autodidacta.",
+    "👶🏻 Me gusta mucho programar y también crear diseños, teniendo en cuenta la experiencia de usuario, para que el conjunto (diseño + funcionalidades) sea lo mejor posible. De este modo, puedo plasmar mi creatividad. También soy una persona paciente, detallista y constante. Me gusta luchar por mis objetivos y cumplirlos.",
+  line2_about: "📝 He realizado el training de Desarrollo Full Stack en Oxygen Academy y sigo formándome de manera autodidacta.",
   line3_about:
-    "📝 Estuve cursando en Desarrollo Front-end impartido por Samsung y dedicado a mujeres. Después, cursé en el Training Full Stack de Oxygen Academy.",
+    "🏠 Estoy abierta a ofertas de empleo en remoto o presenciales(Galicia).",
   line4_about:
     "     🙏🏻 Me gustaría poder empezar a trabajar para afianzar conocimientos, trabajar en equipo, aprender de las personas que lo formen y empezar a ganar experiencia en este sector.",
-  line5_about: "🏠 Estoy abierta a ofertas de empleo en remoto.",
   button_about: "Hablemos",
 
   // EXPERIENCE

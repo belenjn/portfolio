@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import {strings} from '../../utils/strings'
+import { strings } from "../../utils/strings";
 import ME from "../../assets/be2.png";
 
 export const About = () => {
@@ -18,12 +18,16 @@ export const About = () => {
 
         <div className="about__content">
           <p>
-          {strings.line1_about} <br></br><br></br>
-          {strings.line2_about}<br></br><br></br>
-          {strings.line3_about}<br></br><br></br>
-          {strings.line4_about}<br></br> <br></br>
-          {strings.line5_about}
-
+            {strings.line1_about} <br></br>
+            <br></br>
+            {strings.line2_about}
+            <br></br>
+            <br></br>
+            {strings.line4_about}
+            <br></br> <br></br>
+            {strings.line3_about}
+            <br></br>
+            <br></br>
           </p>
 
           <a href="#contact" className="btn btn-primary">
