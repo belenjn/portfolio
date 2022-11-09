@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.cc811667.css",
-    "main.js": "/static/js/main.09c117a6.js",
+    "main.css": "/static/css/main.bb272c29.css",
+    "main.js": "/static/js/main.2a28a909.js",
+    "static/media/horror.png": "/static/media/horror.6698bdfbebaa1943e285.png",
     "static/media/gallery.png": "/static/media/gallery.49fd42c79cc2e1ac406b.png",
     "static/media/sw.png": "/static/media/sw.75d41ad077514e672a3a.png",
     "static/media/hotel.png": "/static/media/hotel.e8bc8a77a6ee7155c5cf.png",
-    "static/media/be.png": "/static/media/be.5c7550985d466e1a2c7c.png",
     "static/media/CV2022.pdf": "/static/media/CV2022.b1c839b5e60dd549c994.pdf",
+    "static/media/be.png": "/static/media/be.b0d974ceb45f35959954.png",
+    "static/media/clever.png": "/static/media/clever.b05a7aba19de0ed5f258.png",
     "static/media/be2.png": "/static/media/be2.99259d03cf9808eb934e.png",
     "index.html": "/index.html",
-    "main.cc811667.css.map": "/static/css/main.cc811667.css.map",
-    "main.09c117a6.js.map": "/static/js/main.09c117a6.js.map"
+    "main.bb272c29.css.map": "/static/css/main.bb272c29.css.map",
+    "main.2a28a909.js.map": "/static/js/main.2a28a909.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc811667.css",
-    "static/js/main.09c117a6.js"
+    "static/css/main.bb272c29.css",
+    "static/js/main.2a28a909.js"
   ]
 }
