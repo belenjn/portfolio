@@ -41,6 +41,8 @@ export const strings = {
   title_portfolio3: "Star Wars App",
   title_portfolio4: "Hotel Miranda",
   title_portfolio5: "Custom Gallery",
+  title_portfolio6: "Horror watcher",
+  title_portfolio7: "Clever-post",
   link_portfolio1: "GitHub",
   link_portfolio2: "Ir al sitio web",
 
